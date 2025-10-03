@@ -1,0 +1,184 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Thiết bị nào dưới đây là máy tính thông dụng dùng cho học sinh?",
+    "options": ["Máy tính xách tay (laptop)", "Máy giặt", "Tủ lạnh", "Máy ảnh cơ"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Máy tính bảng (tablet) có đặc điểm gì?",
+    "options": ["Màn hình cảm ứng, gọn nhẹ", "Chỉ dùng được khi cắm mạng dây", "Không có màn hình", "Chỉ để nghe gọi như điện thoại bàn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Máy tính để bàn (desktop) thường gồm các phần tách rời như:",
+    "options": ["Thân máy, màn hình, bàn phím, chuột", "Chỉ có điện thoại", "Chỉ có màn chiếu", "Chỉ có loa"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Thiết bị nào cũng có thể xem là một loại “máy tính” vì có bộ xử lí và chạy ứng dụng?",
+    "options": ["Điện thoại thông minh (smartphone)", "Máy sấy tóc", "Quạt giấy", "Bút chì"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Thiết bị nào phù hợp để mang đi học ngoại khóa vì nhẹ và dùng cảm ứng?",
+    "options": ["Máy tính bảng", "Máy tính để bàn", "Máy in lớn", "TV treo tường"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Chromebook/Netbook thường phù hợp với việc:",
+    "options": ["Học online, lướt web, tài liệu nhẹ", "Lau nhà", "Đóng cọc", "Nấu cơm"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Khi cần cấu hình mạnh để biên tập video, loại máy phù hợp hơn là:",
+    "options": ["Desktop cấu hình cao", "Máy nghe nhạc", "Máy tính bỏ túi", "Máy chiếu mini"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-8",
+    "text": "All-in-one (AIO) là loại máy tính:",
+    "options": ["Gộp màn hình và thân máy vào một khối", "Không có màn hình", "Chỉ là loa", "Chỉ dùng pin tiểu"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Thiết bị nào thường dùng để trình chiếu bài giảng từ máy tính?",
+    "options": ["Máy chiếu (projector)", "Quạt", "Máy hút bụi", "Bàn ủi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Đâu KHÔNG phải là máy tính thông dụng?",
+    "options": ["Máy đánh chữ cơ", "Laptop", "Desktop", "Tablet"],
+    "answer": 0
+  },
+
+  {
+    "id": "TH-1-11",
+    "text": "Bộ phận nào giúp hiển thị hình ảnh, chữ trên máy tính?",
+    "options": ["Màn hình", "Bàn phím", "Chuột", "Loa"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Bộ phận nào dùng để nhập kí tự, chữ số vào máy?",
+    "options": ["Bàn phím", "Loa", "Màn hình", "Ổ điện"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Thiết bị nào dùng để điều khiển con trỏ trên màn hình?",
+    "options": ["Chuột máy tính", "Micro", "Máy in", "Máy ảnh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Loa/micro thuộc nhóm thiết bị gì?",
+    "options": ["Âm thanh: loa phát âm, micro thu âm", "Lưu trữ dữ liệu", "Xử lí hình ảnh", "Cấp điện"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-15",
+    "text": "CPU (bộ xử lí) có vai trò chính là:",
+    "options": ["Xử lí lệnh và tính toán", "Lưu trữ vĩnh viễn dữ liệu", "Hiển thị hình ảnh", "Kết nối Internet"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-16",
+    "text": "Ổ cứng/SSD dùng để:",
+    "options": ["Lưu trữ dữ liệu và chương trình", "Phát âm thanh", "Gõ chữ", "Chỉ để trang trí"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-17",
+    "text": "RAM (bộ nhớ tạm) giúp:",
+    "options": ["Máy chạy mượt khi mở ứng dụng", "Máy phát nhạc lớn hơn", "Màn hình sáng hơn", "Chuột chạy nhanh hơn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-18",
+    "text": "Card mạng/Wi-Fi dùng để:",
+    "options": ["Kết nối mạng Internet", "In giấy", "Quay video", "Ghi âm"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-19",
+    "text": "Cổng USB thường dùng để:",
+    "options": ["Kết nối thiết bị ngoài như chuột, bàn phím, USB", "Bắt sóng TV", "Sạc pin cho quạt trần", "Bơm nước"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-20",
+    "text": "Webcam có chức năng chính là:",
+    "options": ["Ghi hình để gọi video/học trực tuyến", "Phát nhạc", "In tài liệu", "Phóng to màn hình vật lí"],
+    "answer": 0
+  },
+
+  {
+    "id": "TH-1-21",
+    "text": "Ngồi máy tính đúng tư thế là:",
+    "options": ["Lưng thẳng, mắt cách màn hình khoảng 40–60 cm", "Cúi sát màn hình", "Nằm bò lên bàn", "Đứng một chân"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-22",
+    "text": "Để bảo vệ mắt khi dùng máy tính, em nên:",
+    "options": ["Nghỉ ngắn sau mỗi 20–30 phút nhìn xa vài mét", "Nhìn chằm chằm không chớp mắt", "Tắt hết đèn phòng", "Dán mắt vào màn hình"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-23",
+    "text": "Khoảng cách tay–bàn phím phù hợp là:",
+    "options": ["Cổ tay thả lỏng, cánh tay song song mặt bàn", "Gõ thật mạnh cho nhanh", "Giơ tay cao quá vai", "Tựa hẳn người ra sau xa bàn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-24",
+    "text": "Khi nào NÊN dùng máy tính?",
+    "options": ["Khi học bài, tìm hiểu kiến thức, làm bài tập", "Trong giờ ngủ trưa ở lớp", "Trong giờ thể dục trên sân", "Khi đang qua đường"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-25",
+    "text": "Thời gian sử dụng máy tính phù hợp với học sinh tiểu học là:",
+    "options": ["Chia thành các đợt ngắn, có nghỉ mắt và vận động", "Ngồi liên tục nhiều giờ", "Thức khuya dùng máy", "Dùng trong lúc ăn cơm"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-26",
+    "text": "Khi tay ướt hoặc bẩn, em nên:",
+    "options": ["Rửa sạch, lau khô rồi mới chạm máy", "Vẫn dùng vì không sao", "Thổi cho khô rồi gõ mạnh", "Cắm thêm ổ điện để khô nhanh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-27",
+    "text": "Thói quen NÊN làm để dùng máy tính an toàn:",
+    "options": ["Ngồi đúng tư thế, giữ lưng thẳng, điều chỉnh ghế/màn hình phù hợp", "Đặt máy trên mép bàn chông chênh", "Kéo dây điện lung tung", "Ăn uống đặt sát máy"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-28",
+    "text": "Việc nào KHÔNG nên làm khi dùng máy tính ở lớp?",
+    "options": ["Tự ý tải phần mềm lạ", "Tuân thủ hướng dẫn của thầy cô", "Giữ vệ sinh bàn phím", "Tắt máy đúng cách khi kết thúc"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-29",
+    "text": "Khi phải mang laptop, cách mang đúng là:",
+    "options": ["Dùng túi/chống sốc, đeo chắc chắn, tránh va đập", "Kẹp dưới nách chạy", "Cầm một tay lắc lư", "Không cần cất sạc dây"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-30",
+    "text": "Thói quen chăm sóc thiết bị giúp máy bền hơn là:",
+    "options": ["Cập nhật phần mềm, quét virus định kì, vệ sinh máy", "Để bụi bẩn bám dày", "Cắm rút mạnh tay", "Đặt gần nước nóng"],
+    "answer": 0
+  }
+]

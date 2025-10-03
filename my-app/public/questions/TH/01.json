@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Máy tính có thể giúp em:",
+    "options": ["Chơi thể thao ngoài sân", "Viết và trình bày bài văn", "Nấu cơm", "Tưới cây"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Khi em cần tính toán nhanh các phép cộng, trừ, nhân, chia lớn, em có thể dùng:",
+    "options": ["Máy ảnh", "Máy tính bỏ túi", "Máy tính điện tử (computer)", "Máy chiếu"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Máy tính có thể giúp em học ngoại ngữ bằng cách:",
+    "options": ["Cho em chơi cờ vua", "Nghe nhạc và xem video học tiếng", "Nấu bữa ăn", "Quét nhà"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Em muốn soạn thảo một bài tập làm văn, em có thể dùng:",
+    "options": ["Microsoft Word", "Paint", "PowerPoint", "Trình duyệt Web"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Để vẽ hình và tô màu trên máy tính, em có thể dùng:",
+    "options": ["Microsoft Excel", "Paint", "PowerPoint", "Thư mục Documents"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Máy tính giúp em nghe nhạc bằng:",
+    "options": ["Phần mềm chơi nhạc", "Máy giặt", "Quạt điện", "Máy ảnh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Em có thể xem phim hoạt hình trên máy tính bằng:",
+    "options": ["Chỉ có đài radio", "Trình phát video", "Máy in", "Bàn phím"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Máy tính có thể giúp em:",
+    "options": ["Làm toán", "Viết chữ đẹp", "Chạy bộ", "Quay sữa"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Khi cần gửi thư điện tử cho thầy cô, em dùng:",
+    "options": ["Gmail hoặc Outlook", "Zalo trên điện thoại", "Tivi", "Máy in"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Máy tính có thể hỗ trợ học Toán bằng:",
+    "options": ["Phần mềm tính toán", "Nồi cơm điện", "Xe đạp", "Bảng đen"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-11",
+    "text": "Em muốn trình chiếu bài thuyết trình, phần mềm thích hợp là:",
+    "options": ["PowerPoint", "Excel", "Paint", "WordPad"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Máy tính có thể giúp em tra cứu thông tin qua:",
+    "options": ["Thư viện số và Internet", "Đồng hồ báo thức", "Máy quạt", "Cái bút chì"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Em muốn lập bảng điểm, phần mềm nào phù hợp?",
+    "options": ["Excel", "Word", "Paint", "PowerPoint"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Máy tính giúp em giải trí bằng cách:",
+    "options": ["Nghe nhạc, xem phim, chơi trò chơi", "Đạp xe ngoài trời", "Hái quả trong vườn", "Đọc truyện giấy"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-15",
+    "text": "Em có thể dùng máy tính để:",
+    "options": ["Gọi bạn bè qua video call", "Đun nước", "Gấp quần áo", "Đá bóng"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-16",
+    "text": "Máy tính có thể hỗ trợ vẽ kỹ thuật trong môn:",
+    "options": ["Âm nhạc", "Mỹ thuật", "Thể dục", "Giáo dục công dân"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-17",
+    "text": "Để gửi bài tập nhanh cho thầy cô qua mạng, em dùng:",
+    "options": ["Email hoặc ứng dụng học tập", "Máy giặt", "Đồng hồ treo tường", "Bút bi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-18",
+    "text": "Máy tính giúp em luyện gõ 10 ngón bằng:",
+    "options": ["Phần mềm luyện gõ", "Máy photocopy", "Đèn học", "Máy quạt"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-19",
+    "text": "Máy tính có thể mô phỏng thí nghiệm trong môn:",
+    "options": ["Hóa học, Vật lý", "Thể dục", "Mĩ thuật ngoài trời", "Sinh hoạt lớp"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-20",
+    "text": "Để quản lý và lưu trữ nhiều tệp tin, máy tính có:",
+    "options": ["Thư mục (Folder)", "Ngăn tủ", "Hộp bút", "Quyển vở"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-21",
+    "text": "Máy tính giúp kết nối bạn bè ở xa bằng:",
+    "options": ["Mạng Internet", "Máy may", "Chổi lau nhà", "Quạt máy"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-22",
+    "text": "Máy tính có thể giúp giáo viên:",
+    "options": ["Soạn bài giảng điện tử", "Quét sân trường", "Treo cờ", "Đánh trống"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-23",
+    "text": "Em muốn chỉnh sửa một bức ảnh trên máy tính, em dùng:",
+    "options": ["Phần mềm chỉnh sửa ảnh", "Máy chiếu", "Thước kẻ", "Máy in"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-24",
+    "text": "Máy tính có thể hỗ trợ bác sĩ:",
+    "options": ["Chuẩn đoán bệnh bằng hình ảnh", "Quét lớp học", "Lái xe máy", "Tưới hoa"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-25",
+    "text": "Khi học trực tuyến, em cần máy tính để:",
+    "options": ["Vào lớp học online qua Zoom, Teams…", "Đạp xe đến trường", "Vẽ tranh giấy", "Chơi đá banh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-26",
+    "text": "Máy tính có thể giúp em học nhạc bằng:",
+    "options": ["Nghe và luyện tập theo phần mềm dạy nhạc", "Đàn guitar thật", "Cái trống trường", "Tivi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-27",
+    "text": "Máy tính giúp nhà khoa học:",
+    "options": ["Phân tích số liệu nhanh", "Gấp áo quần", "Tưới vườn", "Leo núi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-28",
+    "text": "Máy tính giúp lưu giữ kỷ niệm bằng:",
+    "options": ["Ảnh, video", "Sách giáo khoa", "Quạt giấy", "Hộp bút"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-29",
+    "text": "Máy tính có thể giúp em dịch văn bản sang ngôn ngữ khác bằng:",
+    "options": ["Google Dịch", "Máy giặt", "Thước kẻ", "Máy ảnh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-30",
+    "text": "Khi muốn liên hệ nhanh với người thân ở nước ngoài, em có thể dùng máy tính để:",
+    "options": ["Gọi video qua Internet", "Viết thư tay gửi bưu điện", "Gửi chim bồ câu", "Đánh trống trường"],
+    "answer": 0
+  }
+]

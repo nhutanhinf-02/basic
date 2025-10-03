@@ -1,0 +1,184 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Phần cứng máy tính là gì?",
+    "options": ["Các bộ phận vật lí như màn hình, bàn phím, thân máy…", "Chương trình chạy trên máy (Windows, PowerPoint…)", "Các tập tin trong Thùng rác", "Tín hiệu Wi-Fi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Phần mềm máy tính là gì?",
+    "options": ["Thiết bị nhập như chuột, bàn phím", "Chương trình điều khiển và ứng dụng giúp máy hoạt động", "Ổ cắm điện", "Thẻ nhớ"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Đâu là ví dụ về PHẦN CỨNG?",
+    "options": ["Windows 10", "PowerPoint", "Chuột máy tính", "Google Chrome"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Đâu là ví dụ về PHẦN MỀM?",
+    "options": ["Màn hình", "Thân máy (case)", "Paint/PowerPoint/Chrome", "Bàn phím"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Quan hệ giữa phần cứng và phần mềm đúng nhất là:",
+    "options": ["Chỉ cần phần mềm, không cần phần cứng", "Chỉ cần phần cứng, không cần phần mềm", "Phải có cả phần cứng và phần mềm thì máy mới hoạt động", "Không liên quan"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Nếu máy chỉ có phần cứng mà không có phần mềm thì:",
+    "options": ["Máy vẫn chạy bình thường", "Máy không thể thực hiện công việc gì", "Máy tự cài được phần mềm", "Màn hình phát nhạc"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Thao tác nào SAU ĐÂY dễ gây lỗi hỏng phần cứng/phần mềm?",
+    "options": ["Tắt máy bằng nút Shut down trong hệ điều hành", "Ngắt nguồn điện đột ngột khi máy đang chạy", "Cập nhật và tắt máy đúng cách", "Đặt máy nơi khô ráo"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Thao tác vệ sinh màn hình ĐÚNG là:",
+    "options": ["Dùng vải mềm khô, lau nhẹ nhàng", "Phun trực tiếp nước lên màn hình", "Dùng khăn ướt nhỏ nước", "Cào mạnh bằng vật cứng"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Việc cắm rút USB đúng cách nên:",
+    "options": ["Rút ngay khi đang sao chép", "Nhấn “Eject/Safe Remove” rồi mới rút", "Lắc mạnh cho nhanh", "Rút bằng hai tay thật mạnh"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Bộ phận nào KHÔNG phải là phần cứng?",
+    "options": ["Windows/Chrome", "Loa", "Màn hình", "Chuột"],
+    "answer": 0
+  },
+
+  {
+    "id": "TH-1-11",
+    "text": "Lợi ích của gõ bàn phím ĐÚNG CÁCH là:",
+    "options": ["Gõ nhanh, chính xác, đỡ mỏi tay", "Chỉ đẹp mắt", "Không cần nhìn màn hình", "Không cần luyện tập"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Hậu quả của gõ sai tư thế có thể là:",
+    "options": ["Đau, mỏi cổ tay, cổ/vai", "Tăng tốc độ gõ", "Màn hình sáng hơn", "Máy mát hơn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Tư thế đặt tay cơ bản khi gõ là:",
+    "options": ["Đặt 10 ngón trên hàng cơ sở (ASDF – JKL;)", "Chỉ dùng 2 ngón trỏ", "Nắm chặt bàn phím", "Đặt tay lên màn hình"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Phím Enter có chức năng thường dùng là:",
+    "options": ["Xóa kí tự bên trái", "Xuống dòng hoặc xác nhận lệnh", "Di chuyển con trỏ sang trái", "Tắt máy"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-15",
+    "text": "Phím Backspace dùng để:",
+    "options": ["Xóa kí tự bên trái con trỏ", "Xóa kí tự bên phải con trỏ", "Chuyển sang dòng mới", "Dán văn bản"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-16",
+    "text": "Phím Delete dùng để:",
+    "options": ["Xóa kí tự bên phải con trỏ", "Xóa kí tự bên trái con trỏ", "Sao chép", "Bôi đậm"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-17",
+    "text": "Phím mũi tên ↑ có tác dụng:",
+    "options": ["Di chuyển con trỏ lên trên", "Di chuyển con trỏ sang phải", "Xóa kí tự", "Phóng to chữ"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-18",
+    "text": "Hàng phím số (0–9) nằm ở:",
+    "options": ["Trên cùng của khu vực phím chữ", "Dưới cùng bàn phím", "Bên phải chuột", "Sau màn hình"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-19",
+    "text": "Khi gõ, mắt nên:",
+    "options": ["Theo dõi màn hình, hạn chế nhìn phím khi đã quen", "Nhìn chằm chằm xuống phím", "Nhắm mắt gõ", "Nhìn ra cửa sổ liên tục"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-20",
+    "text": "Thao tác luyện tập đúng để tăng tốc độ gõ là:",
+    "options": ["Luyện đều 10 ngón theo bài tập, giữ nhịp độ ổn định", "Gõ thật mạnh vào phím", "Chỉ dùng 2–3 ngón", "Đổi vị trí các phím"],
+    "answer": 0
+  },
+
+  {
+    "id": "TH-1-21",
+    "text": "Tư thế ngồi đúng khi dùng máy tính là:",
+    "options": ["Lưng thẳng, chân chạm đất, mắt cách màn 40–60 cm", "Cúi sát màn hình", "Nằm bò lên bàn", "Ngồi vắt chéo một chân lên bàn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-22",
+    "text": "Khoảng bao lâu nên nghỉ ngắn cho mắt khi học máy tính?",
+    "options": ["Mỗi 20–30 phút", "Mỗi 2 giờ", "Cả buổi không nghỉ", "Chỉ khi mỏi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-23",
+    "text": "Vị trí bàn phím và chuột nên:",
+    "options": ["Đặt thẳng trước người, cổ tay thả lỏng", "Đặt lệch hẳn sang một bên", "Đặt cao quá vai", "Đặt trên đùi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-24",
+    "text": "Khi tắt máy an toàn, em nên:",
+    "options": ["Chọn lệnh Shut down trong hệ điều hành", "Rút điện ngay lập tức", "Bấm nút nguồn giữ lâu cho tắt cưỡng bức", "Đậy nắp rồi lắc mạnh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-25",
+    "text": "Trước khi vệ sinh máy tính, cần:",
+    "options": ["Tắt máy, rút nguồn, dùng khăn khô mềm", "Phun nước trực tiếp lên bàn phím", "Đổ cồn nhiều lên màn hình", "Không cần tắt máy"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-26",
+    "text": "Khi dùng ở lớp học, hành vi NÊN làm là:",
+    "options": ["Tuân thủ hướng dẫn của thầy cô, không tự cài phần mềm lạ", "Tự ý đổi cài đặt hệ thống", "Chia sẻ mật khẩu cho bạn", "Cắm rút USB khi máy đang chép dữ liệu"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-27",
+    "text": "Màn hình bị mờ bẩn, cách xử lí phù hợp:",
+    "options": ["Tắt màn hình, dùng khăn vi sợi khô lau nhẹ", "Dùng giấy nhám chà", "Dùng tay ướt lau mạnh", "Không vệ sinh bao giờ"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-28",
+    "text": "Khi gõ văn bản, để xuống dòng mới em dùng:",
+    "options": ["Enter", "Backspace", "Delete", "Tab"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-29",
+    "text": "Để con trỏ di chuyển sang phải 1 kí tự, dùng:",
+    "options": ["Mũi tên →", "Mũi tên ←", "Mũi tên ↑", "Mũi tên ↓"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-30",
+    "text": "Phát biểu ĐÚNG về an toàn khi dùng máy là:",
+    "options": ["Giữ thiết bị khô ráo, không ăn uống gần máy, tắt đúng cách", "Dùng máy liên tục nhiều giờ không nghỉ", "Đặt máy gần nước nóng", "Mang máy xách tay không cần túi chống sốc"],
+    "answer": 0
+  }
+]

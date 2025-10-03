@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Khi làm bài thuyết trình môn Lịch sử, phần mềm phù hợp nhất là:",
+    "options": ["Phần mềm trình chiếu (PowerPoint, Google Slides)", "Trình duyệt web", "Phần mềm nén file", "Trình phát nhạc"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Để luyện gõ mười ngón nhanh và đúng, em nên dùng:",
+    "options": ["Phần mềm chỉnh âm thanh", "Máy tính bỏ túi", "Trò chơi đua xe", "Ứng dụng luyện gõ bàn phím"],
+    "answer": 3
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Công cụ phù hợp để ghi chú, làm dàn ý bài văn là:",
+    "options": ["Ứng dụng lịch", "Trình soạn thảo văn bản (Word/Docs)", "Phần mềm vẽ 3D", "Trình xem ảnh"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Để tạo tờ rơi mời tham gia câu lạc bộ, em nên dùng:",
+    "options": ["Trình duyệt web", "Phần mềm đồ họa/thiết kế (Canva, Publisher)", "Trình phát video", "Ứng dụng thời tiết"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Em muốn gửi bài tập và hỏi cô giáo, cách phù hợp là:",
+    "options": ["Gửi email/nhắn tin qua nền tảng lớp học", "Dán lên cửa lớp", "Gửi cho bạn bất kỳ", "In ra rồi đốt"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Để họp nhóm làm dự án khi các bạn ở xa, em dùng:",
+    "options": ["Gọi video/ứng dụng họp trực tuyến", "Máy tính bỏ túi", "Máy ảnh cơ", "Ứng dụng nghe nhạc"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Khi muốn lưu trữ và chia sẻ tệp cho cả nhóm, giải pháp tiện nhất là:",
+    "options": ["Gửi qua bưu điện", "In ra giấy", "Dịch vụ lưu trữ đám mây (Drive, OneDrive)", "Ổ cứng ngoài"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Máy tính giúp giải trí lành mạnh bằng cách:",
+    "options": ["Tiết lộ thông tin cá nhân", "Tải phần mềm lạ", "Chơi/trải nghiệm nội dung phù hợp lứa tuổi", "Chơi game cả đêm"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Để cắt ghép video kỷ niệm lớp, em nên dùng:",
+    "options": ["Máy tính bỏ túi", "Trình soạn thảo mã", "Ứng dụng thời tiết", "Phần mềm chỉnh sửa video (CapCut, Movie Maker)"],
+    "answer": 3
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Để rèn tư duy qua trò chơi, lựa chọn phù hợp là:",
+    "options": ["Mở quá nhiều tab vô tổ chức", "Chia sẻ mật khẩu", "Tải phần mềm không rõ nguồn", "Game chiến thuật/ghép hình rèn logic"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-1",
+    "text": "Trên trang thư viện trường, mục “Tài nguyên số” là ví dụ của:",
+    "options": ["Nút đăng nhập", "Danh mục/Chuyên mục", "Quảng cáo", "Thanh trạng thái"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-2",
+    "text": "Để tìm “Hướng dẫn mượn sách” bằng cách duyệt theo cấu trúc trang, em nên:",
+    "options": ["Đợi trang tự hiện", "Nhấp vào “Hỗ trợ/Trợ giúp” trong thanh menu", "Gửi email cho bạn", "Lướt mạng xã hội"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-3",
+    "text": "Trên website bán sách, cách nhanh để xem sách Toán lớp 6 là:",
+    "options": ["Xem mục “Khuyến mãi”", "Vào trang chủ rồi thoát", "Chọn “Sách giáo khoa → Lớp 6 → Toán”", "Xem mục “Liên hệ”"],
+    "answer": 2
+  },
+  {
+    "id": "TH-2-4",
+    "text": "Biểu tượng “kính lúp” trên website thường dùng để:",
+    "options": ["Mở cài đặt", "Đăng xuất", "Tải xuống", "Tìm kiếm"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-5",
+    "text": "Khi dùng ô tìm kiếm nội bộ, để có kết quả chính xác hơn, em nên:",
+    "options": ["Gõ cả đoạn văn dài", "Cố tình gõ sai chính tả", "Không gõ dấu cách", "Gõ từ khóa ngắn, rõ"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-6",
+    "text": "Nếu kết quả tìm kiếm quá nhiều, thao tác nào giúp thu hẹp?",
+    "options": ["Cuộn trang ngẫu nhiên", "Tắt máy", "Gõ mỗi chữ cái đầu", "Thêm từ khóa cụ thể hoặc dùng bộ lọc"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-7",
+    "text": "Tại trang Hỏi–Đáp của trường, để tìm cách “đổi mật khẩu email”, em nên:",
+    "options": ["Vào “Khách mời”", "Vào “Giới thiệu”", "Vào “Tin tuyển dụng”", "Vào danh mục “Tài khoản/Email”"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-8",
+    "text": "Khi tìm thời khóa biểu lớp, trong ô tìm kiếm nội bộ nên gõ:",
+    "options": ["“…”", "“Video hay”", "“Xin chào”", "“TKB 7A tuần 10”"],
+    "answer": 3
+  },
+  {
+    "id": "TH-2-9",
+    "text": "Bộ lọc theo ngày đăng trên website có tác dụng chính là:",
+    "options": ["Sắp xếp/giới hạn kết quả theo thời gian", "Tăng độ sáng màn hình", "Trang trí", "Chặn quảng cáo"],
+    "answer": 0
+  },
+  {
+    "id": "TH-2-10",
+    "text": "Khi không thấy mục cần thiết trong menu, bước hợp lý tiếp theo là:",
+    "options": ["Gửi mật khẩu cho người lạ nhờ giúp", "Tải phần mềm lạ", "Thoát ngay", "Dùng ô tìm kiếm nội bộ của trang"],
+    "answer": 3
+  },
+  {
+    "id": "TH-3-1",
+    "text": "Bước đầu tiên khi giải quyết vấn đề học tập là:",
+    "options": ["Chọn đáp án ngẫu nhiên", "Sao chép bất kỳ", "Thu thập thông tin từ nhiều nguồn đáng tin", "Bỏ qua yêu cầu"],
+    "answer": 2
+  },
+  {
+    "id": "TH-3-2",
+    "text": "Nguồn thông tin đáng tin hơn cho số liệu khoa học là:",
+    "options": ["Diễn đàn ẩn danh", "Blog cá nhân không nêu nguồn", "Trang chính thức của cơ quan/viện nghiên cứu", "Bình luận mạng xã hội"],
+    "answer": 2
+  },
+  {
+    "id": "TH-3-3",
+    "text": "Để tránh sai lệch khi thu thập thông tin, em nên:",
+    "options": ["Bỏ qua ngày cập nhật", "Chỉ xem một nguồn", "So sánh từ nhiều nguồn khác nhau", "Chọn thông tin hợp ý mình"],
+    "answer": 2
+  },
+  {
+    "id": "TH-3-4",
+    "text": "Tiêu chí quan trọng khi chọn thông tin phù hợp là:",
+    "options": ["Độ dài văn bản", "Tính liên quan đến câu hỏi/bài tập", "Màu sắc đẹp", "Nhiều hình nền"],
+    "answer": 1
+  },
+  {
+    "id": "TH-3-5",
+    "text": "Em thấy hai bài viết: một bài cũ 5 năm và một bài mới cập nhật. Nên:",
+    "options": ["Không đọc", "Chọn bài cũ vì dài hơn", "Ưu tiên bài mới, kiểm tra nguồn", "Tự chế số liệu"],
+    "answer": 2
+  },
+  {
+    "id": "TH-3-6",
+    "text": "Khi trích dẫn số liệu thống kê, em nên:",
+    "options": ["Ghi “theo mình nhớ”", "Ghi rõ nguồn, thời điểm, đường dẫn (nếu có)", "Không cần nguồn", "Ghi sai cũng được"],
+    "answer": 1
+  },
+  {
+    "id": "TH-3-7",
+    "text": "Dấu hiệu cảnh báo thông tin thiếu tin cậy là:",
+    "options": ["Có tài liệu tham khảo rõ ràng", "Không có tác giả/nguồn, nhiều lỗi chính tả, giật tít", "Tạp chí khoa học có phản biện", "Trang cơ quan chính phủ"],
+    "answer": 1
+  },
+  {
+    "id": "TH-3-8",
+    "text": "Cách làm hiệu quả khi tổng hợp thông tin cho báo cáo:",
+    "options": ["Ghi ý chính, lập dàn ý, phân nhóm nội dung", "Trộn lẫn ý kiến và số liệu", "Chép nguyên văn toàn bộ", "Bỏ phần kết luận"],
+    "answer": 0
+  },
+  {
+    "id": "TH-3-9",
+    "text": "Nếu thông tin mâu thuẫn giữa các nguồn, em nên:",
+    "options": ["Xóa hết", "Bỏ qua", "Kiểm tra độ tin cậy, truy nguồn dữ liệu, hỏi giáo viên", "Chọn cái mình thích"],
+    "answer": 2
+  },
+  {
+    "id": "TH-3-10",
+    "text": "Mục tiêu của việc chọn lọc thông tin trong giải quyết vấn đề là:",
+    "options": ["Có căn cứ chính xác, phù hợp để ra quyết định", "Làm cho nhanh", "Tránh làm", "Tạo ra thật nhiều trang"],
+    "answer": 0
+  }
+]

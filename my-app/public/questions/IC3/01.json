@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Bạn xem dự báo thời tiết nói chiều nay có mưa. Đây là:",
+    "options": ["Quyết định", "Thông tin", "Ý kiến cá nhân", "Trò chơi"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Sau khi xem dự báo mưa, bạn chọn mang áo mưa tới trường. Đây là:",
+    "options": ["Thông tin", "Quyết định", "Tin đồn", "Hỏi đáp"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Cô giáo nhắn: “Ngày mai kiểm tra Toán”. Em nên làm gì trước khi quyết định ôn bài?",
+    "options": ["Bỏ qua vì mệt", "Thu thập và xác nhận thông tin từ sổ liên lạc/lịch lớp", "Chỉ hỏi bạn ngồi cạnh", "Đoán lịch khác"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Dòng nào là ví dụ về “xử lý thông tin”?",
+    "options": ["Vẽ tranh tự do", "Sắp xếp điểm bài kiểm tra từ cao đến thấp", "Chơi kéo co", "Tô màu"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Bảng thời khóa biểu lớp 3A là:",
+    "options": ["Thông tin", "Quyết định", "Trò đùa", "Câu đố"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Từ bảng thời khóa biểu, em chọn mang vở Mĩ thuật vào thứ Tư. Đó là:",
+    "options": ["Thông tin", "Hành động không liên quan", "Quyết định dựa trên thông tin", "Trò chơi"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Khi có hai nguồn nói khác nhau về giờ tập trung, bước phù hợp là:",
+    "options": ["Tin nguồn bất kỳ", "Hỏi giáo viên/nhà trường và kiểm tra thông báo chính thức", "Không đi nữa", "Nhắn bạn đoán thử"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Câu nào ĐÚNG về mối liên hệ thông tin – quyết định?",
+    "options": ["Quyết định không cần thông tin", "Thông tin giúp ra quyết định tốt hơn", "Có thông tin thì khỏi cần quyết định", "Quyết định là một loại thông tin"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Bạn đọc được lịch trực nhật từng tổ trên bảng. Em đang:",
+    "options": ["Thu thập thông tin", "Ra quyết định cuối cùng", "Chơi game", "Tắt đèn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Em muốn chọn sách tham khảo Toán phù hợp. Bước xử lý đầu tiên là:",
+    "options": ["Sắp xếp các lựa chọn theo màu bìa", "Tìm và đọc tóm tắt/nội dung, xem lứa tuổi phù hợp", "Mua cuốn đắt nhất", "Hỏi bạn nhưng không xem sách"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-11",
+    "text": "Câu nào là “thông tin riêng tư” cần cẩn thận?",
+    "options": ["Tên môn học yêu thích", "Điểm bài kiểm tra chi tiết và địa chỉ nhà", "Tranh vẽ con mèo", "Lịch thi đấu thể thao trên TV"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Em ghi lại số bạn vắng mỗi ngày để làm báo cáo tuần. Việc ghi và cộng tổng là:",
+    "options": ["Xử lý thông tin", "Quyết định", "Tin đồn", "Trò chơi"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Tình huống: “Bạn nghe bạn A bảo ngày mai nghỉ học”. Em nên:",
+    "options": ["Tin ngay và không đi học", "Kiểm tra thông báo chính thức từ cô giáo/trường", "Hỏi thêm vài bạn rồi đoán", "Tắt máy"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Đâu là ví dụ chuyển đổi (trình bày lại) thông tin?",
+    "options": ["Từ bảng số liệu điểm → vẽ biểu đồ cột", "Để nguyên không xem", "Xé tờ giấy", "Cất kĩ không ai biết"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-15",
+    "text": "Sau khi thu thập đầy đủ thông tin, bước hợp lí tiếp theo là:",
+    "options": ["Không làm gì", "Ra quyết định phù hợp và thực hiện", "Giữ bí mật mãi", "Vứt bỏ"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-16",
+    "text": "Dòng nào KHÔNG phải là thông tin?",
+    "options": ["Bảng phân công trực nhật", "Thời khóa biểu", "Việc em quyết định mang áo mưa", "Thông báo họp phụ huynh"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-17",
+    "text": "Em có danh sách vật dụng cần mang khi đi dã ngoại: nước, mũ, áo mưa. Đây là:",
+    "options": ["Quyết định", "Thông tin", "Bài hát", "Trò chơi"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-18",
+    "text": "Từ danh sách vật dụng, em tự chọn đồ có sẵn ở nhà để chuẩn bị. Đây là:",
+    "options": ["Thông tin", "Quyết định dựa trên thông tin", "Bức tranh", "Bảng điểm"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-19",
+    "text": "Muốn tìm phần quan trọng trong đoạn văn dài, em nên:",
+    "options": ["Đọc lướt theo từ khóa", "Bỏ qua", "Chỉ nhìn hình minh họa", "Nhắm mắt đoán"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-20",
+    "text": "Bạn cần chọn lớp học năng khiếu (Mĩ thuật hoặc Âm nhạc). Thông tin cần thu thập là:",
+    "options": ["Giờ học, yêu cầu, sở thích của mình", "Giá bút chì", "Thời tiết ngày mai", "Món ăn trưa"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-21",
+    "text": "Khi kiểm tra độ tin cậy của thông tin, em NÊN:",
+    "options": ["Tìm nguồn chính thức và ngày cập nhật", "Tin tin đồn", "Xem video bất kì", "Đoán đại"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-22",
+    "text": "Ví dụ nào là “ra quyết định”?",
+    "options": ["Xem lịch kiểm tra trên bảng", "Chọn học bài Toán trước vì mai kiểm tra", "Nghe nhạc thiếu nhi", "Vẽ hoa"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-23",
+    "text": "Bạn thu thập điểm 5 môn của tổ để biết môn nào cần ôn thêm. Bước xử lý thích hợp:",
+    "options": ["Sắp xếp/tính trung bình từng môn rồi so sánh", "Giấu bảng điểm", "Xóa các điểm thấp", "Chỉ xem môn mình thích"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-24",
+    "text": "Tình huống: “Bạn thấy bản đồ sơ tán khi có cháy”. Bản đồ là:",
+    "options": ["Quyết định", "Thông tin hướng dẫn", "Tranh vui", "Bài hát"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-25",
+    "text": "Từ bản đồ sơ tán, em chọn lối ra gần nhất và đi theo hàng. Đây là:",
+    "options": ["Thông tin", "Quyết định và hành động đúng theo thông tin", "Đùa nghịch", "Trò chơi"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-26",
+    "text": "Khi lập kế hoạch học buổi tối, thứ tự hợp lí là:",
+    "options": ["Ra quyết định ngay không cần thông tin", "Thu thập lịch bài tập → sắp xếp thời gian → quyết định học môn nào trước", "Chỉ bật TV", "Ngủ sớm bỏ học"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-27",
+    "text": "Câu nào là “xử lý thông tin để nhớ lâu”?",
+    "options": ["Chép lại ý chính vào sơ đồ tư duy", "Để sách ở nhà", "Không xem lại", "Chơi game"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-28",
+    "text": "Tình huống: “Bạn đọc quy định lớp về giữ trật tự khi học nhóm”. Đây là:",
+    "options": ["Quyết định", "Thông tin cần tuân theo", "Tin đồn", "Đoán mò"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-29",
+    "text": "Từ quy định giữ trật tự, nhóm em chọn luân phiên người ghi chép. Đây là:",
+    "options": ["Thông tin", "Quyết định dựa trên thông tin", "Bài văn", "Ảnh chụp"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-30",
+    "text": "Khi có thông tin đúng và đầy đủ, em nên:",
+    "options": ["Chia sẻ bừa bãi thông tin riêng tư", "Ra quyết định phù hợp, an toàn và tôn trọng người khác", "Không làm gì", "Giấu hết"],
+    "answer": 1
+  }
+]

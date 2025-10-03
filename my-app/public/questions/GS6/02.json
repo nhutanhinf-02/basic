@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Cấu trúc cây thư mục hợp lí cho bài dự án Tin học nên bắt đầu bằng:",
+    "options": ["Đặt tất cả file ngoài màn hình Desktop", "Một thư mục gốc tên dự án và các thư mục con theo chủ đề (docs, data, images, src…)", "Mỗi file một thư mục riêng lẻ ngẫu nhiên", "Chỉ dùng tên thư mục toàn số"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Tên file nên đặt như thế nào để dễ tìm kiếm và sắp xếp?",
+    "options": ["Tên chung chung như \"final\" hoặc \"new\"", "Dùng ký tự đặc biệt ?*/:<>|", "Ngắn gọn, có từ khóa và ngày theo định dạng YYYY-MM-DD", "Toàn khoảng trắng"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Để tìm file theo phần mở rộng trên Windows, trong ô tìm kiếm File Explorer gõ:",
+    "options": ["type:docx", "*.docx", "ext=docx", "find docx"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Trên Windows, để lọc file theo thời gian chỉnh sửa gần đây, bạn nên:",
+    "options": ["Nhìn từng file và đoán", "Dùng bộ lọc Date modified trong File Explorer", "Xóa bớt file cũ", "Đổi giờ hệ thống"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Trên macOS Finder, tìm nhanh file tên chứa \"bao cao\" bất kể chữ hoa/thường:",
+    "options": ["Cmd + Space, gõ \"bao cao\"", "Nhấp chuột phải lên Desktop", "Mở Safari và tìm Google", "Dùng Terminal bắt buộc"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Đường dẫn (path) nào là đường dẫn tuyệt đối?",
+    "options": ["../images/logo.png", "./report.docx", "C:\\\\DuAn\\\\docs\\\\readme.md", "images/banner.jpg"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Vì sao nên dùng thư mục con như docs/, data/, images/ trong dự án?",
+    "options": ["Để tên đường dẫn dài hơn", "Giúp phân loại nội dung, dễ bảo trì và tìm kiếm", "Để khó cho người khác hiểu", "Không có lợi ích gì"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Khi cần tìm file lớn chiếm dung lượng, nên:",
+    "options": ["Sắp xếp theo Size trong trình quản lí file", "Nén tất cả file trước rồi xem", "Đổi hết tên file", "Chuyển hết ra Desktop"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Tập tin bị xóa nhầm vừa rồi có thể tìm ở đâu đầu tiên?",
+    "options": ["Thùng rác/Recycle Bin/Trash", "Control Panel", "Trình duyệt web", "Cửa sổ Task Manager"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Để hiển thị phần mở rộng tệp (đuôi file) trong Windows, bạn cần bật:",
+    "options": ["View → File name extensions", "Dark mode", "Bluetooth", "Mouse keys"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-11",
+    "text": "Tìm tất cả ảnh PNG trong thư mục hiện tại và các thư mục con (Windows):",
+    "options": ["Tìm \"=png\"", "Gõ \"*.png\" ở ô Search và chọn Search in subfolders", "Chỉ cuộn và nhìn bằng mắt", "Đổi hết ảnh sang JPG"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Thực hành sao lưu (backup) cá nhân tối thiểu nên là:",
+    "options": ["Không cần vì máy ít hỏng", "Một bản trên cùng ổ đĩa", "Ít nhất một bản cục bộ + một bản đám mây", "In ra giấy tất cả file"],
+    "answer": 2
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Khi có nhiều phiên bản tài liệu, cách quản lí gọn gàng là:",
+    "options": ["Đặt tên final, final2, final2_new", "Đặt tên theo version/Ngày: report_2025-10-03_v2.docx", "Không đổi tên bao giờ", "Để trùng tên cho ghi đè"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Tìm file theo từ khóa trong nội dung (Full-text search) hiệu quả khi:",
+    "options": ["File là ảnh", "File là tài liệu văn bản được index (docx, pdf có text)", "File bị mã hóa", "File nén zip"],
+    "answer": 1
+  },
+  {
+    "id": "TH-1-15",
+    "text": "Thực hành tốt khi chia sẻ cấu trúc thư mục cho nhóm là:",
+    "options": ["Tự phát sinh tuỳ ý mỗi người", "Thống nhất quy ước tên và cấu trúc, ghi lại trong README", "Dùng tiếng lóng khó hiểu", "Thay đổi cấu trúc mỗi ngày"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-1",
+    "text": "Bản quyền (copyright) là gì?",
+    "options": ["Quyền sở hữu vật chất với máy tính", "Quyền pháp lí đối với tác phẩm sáng tạo (sao chép, phân phối…)", "Giấy phép sử dụng phòng học", "Mã khóa Wi-Fi"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-2",
+    "text": "Hành vi nào dưới đây là vi phạm bản quyền?",
+    "options": ["Trích dẫn ngắn kèm nguồn trong bài học", "Tự chụp ảnh và đăng lên blog của mình", "Tải tài liệu trả phí rồi chia sẻ công khai không phép", "Dùng tài liệu CC BY và ghi công tác giả"],
+    "answer": 2
+  },
+  {
+    "id": "TH-2-3",
+    "text": "Giấy phép Creative Commons yêu cầu gì với CC BY?",
+    "options": ["Không được sử dụng thương mại", "Chỉ dùng nội bộ", "Bắt buộc ghi công tác giả khi sử dụng", "Cấm sửa đổi"],
+    "answer": 2
+  },
+  {
+    "id": "TH-2-4",
+    "text": "Tác phẩm thuộc phạm vi công cộng (Public Domain) nghĩa là:",
+    "options": ["Mọi người có thể sử dụng tự do, không cần xin phép", "Chỉ dùng cho giáo viên", "Phải trả phí bản quyền cao", "Chỉ dùng ngoại tuyến"],
+    "answer": 0
+  },
+  {
+    "id": "TH-2-5",
+    "text": "Khi muốn dùng hình ảnh trên Internet cho bài thuyết trình, thực hành tốt là:",
+    "options": ["Dùng ảnh bất kì không ghi nguồn", "Tìm ảnh có giấy phép phù hợp (CC/PD) và ghi nguồn rõ ràng", "Cắt logo tác giả", "Đảo màu ảnh để né bản quyền"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-6",
+    "text": "Plagiarism (đạo văn) là:",
+    "options": ["Tham khảo có trích dẫn", "Sao chép ý tưởng hoặc nội dung mà không ghi nguồn", "Dịch bài và ghi nguồn", "Tóm tắt bằng lời mình có dẫn nguồn"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-7",
+    "text": "Thông tin cá nhân/riêng tư KHÔNG nên chia sẻ công khai:",
+    "options": ["Tên môn học yêu thích", "Kết quả thi chi tiết + số CMND/CCCD", "Sở thích đọc sách", "Mục tiêu học tập chung"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-8",
+    "text": "Khi đăng ảnh có bạn học trong đó, thực hành tôn trọng quyền riêng tư là:",
+    "options": ["Đăng ngay không hỏi", "Gắn thẻ tất cả mọi người", "Xin phép người trong ảnh/tuân thủ quy định lớp, trường", "Chỉnh ảnh mờ rồi vẫn gắn tên"],
+    "answer": 2
+  },
+  {
+    "id": "TH-2-9",
+    "text": "Dấu hiệu nội dung vi phạm quyền riêng tư:",
+    "options": ["Công bố địa chỉ nhà, số điện thoại người khác không được phép", "Ảnh phong cảnh", "Thông tin công khai của cơ quan", "Trích dẫn tài liệu có nguồn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-2-10",
+    "text": "Giấy phép CC BY-NC cho phép:",
+    "options": ["Sử dụng thương mại tự do", "Chỉ sử dụng phi thương mại và phải ghi công", "Cấm chia sẻ", "Chỉ tác giả mới dùng được"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-11",
+    "text": "Khi tổng hợp báo cáo học tập từ nhiều nguồn, để tránh vi phạm bản quyền cần:",
+    "options": ["Chép nguyên văn không trích dẫn", "Diễn giải bằng lời mình và ghi nguồn đầy đủ", "Chỉ ghi nguồn ở cuối mà không dẫn trong nội dung", "Không cần kiểm tra giấy phép"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-12",
+    "text": "Chia sẻ tài liệu lớp học ở nhóm công khai tốt nhất là:",
+    "options": ["Hỏi giáo viên về phạm vi chia sẻ và tôn trọng bản quyền tài liệu", "Tải lên mọi nơi để \"nhiều người hưởng lợi\"", "Xóa tên tác giả", "Thay đổi vài chữ rồi đăng"],
+    "answer": 0
+  },
+  {
+    "id": "TH-2-13",
+    "text": "Mật khẩu bảo vệ dữ liệu cá nhân nên:",
+    "options": ["Ngắn, dễ đoán (123456)", "Dài, khó đoán và bật xác thực hai yếu tố nếu có", "Giống nhau mọi tài khoản", "Chia sẻ với bạn thân"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-14",
+    "text": "Ứng dụng yêu cầu quyền truy cập danh bạ và vị trí khi không cần thiết. Bạn nên:",
+    "options": ["Cấp tất cả cho nhanh", "Từ chối quyền không liên quan hoặc gỡ ứng dụng", "Đưa máy cho người khác cấp thay", "Tắt máy vĩnh viễn"],
+    "answer": 1
+  },
+  {
+    "id": "TH-2-15",
+    "text": "Tuyên bố quyền tác giả trong sản phẩm số cá nhân có thể thực hiện bằng cách:",
+    "options": ["Không để tên", "Thêm phần bản quyền/giấy phép và tên tác giả trong trang giới thiệu/tệp README", "Chỉ nói miệng", "Đổi tên file khó đoán"],
+    "answer": 1
+  }
+]

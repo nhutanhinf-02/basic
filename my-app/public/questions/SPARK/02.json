@@ -1,0 +1,183 @@
+[
+  {
+    "id": "TH-1-1",
+    "text": "Trên trang web thường có những loại thông tin chính nào?",
+    "options": ["Văn bản, hình ảnh, âm thanh, video, siêu liên kết", "Chỉ có văn bản", "Chỉ có hình ảnh", "Chỉ có âm thanh"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-2",
+    "text": "Dấu hiệu nhận biết một SIÊU LIÊN KẾT (hyperlink) là:",
+    "options": ["Con trỏ chuột chuyển thành bàn tay khi trỏ vào", "Màn hình tối lại", "Máy phát tiếng bíp", "Phải nhấp đúp mới hiện liên kết"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-3",
+    "text": "Khi nhấp vào chữ màu xanh gạch chân trên trang web, thường sẽ:",
+    "options": ["Chuyển sang trang khác hoặc vị trí khác", "Tắt máy tính", "Xóa trang hiện tại", "Mở phần mềm vẽ"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-4",
+    "text": "Nội dung nào dưới đây PHÙ HỢP với lứa tuổi tiểu học để xem trên Internet?",
+    "options": ["Bài học thiếu nhi của thư viện/trường học", "Trang đánh bạc", "Trang bạo lực, kinh dị", "Trang yêu cầu chia sẻ mật khẩu"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-5",
+    "text": "Tác hại của việc xem trang web không phù hợp lứa tuổi có thể là:",
+    "options": ["Ảnh hưởng xấu đến suy nghĩ, cảm xúc và hành vi", "Giúp học nhanh hơn", "Tự động tăng điểm số", "Máy tính chạy nhanh hơn"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-6",
+    "text": "Khi thấy nội dung xấu, quảng cáo lạ trên web, em nên:",
+    "options": ["Đóng trang, báo người lớn/giáo viên", "Nhấn vào thử cho biết", "Gửi cho bạn bè", "Điền thông tin cá nhân vào"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-7",
+    "text": "Trang kết quả tìm kiếm (SERP) thường HIỂN THỊ:",
+    "options": ["Tiêu đề trang, địa chỉ web (URL), đoạn mô tả", "Chỉ hình nền", "Chỉ video", "Chỉ email của người khác"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-8",
+    "text": "Bước ĐÚNG khi tìm thông tin bằng từ khóa với Google là:",
+    "options": ["Mở trình duyệt → vào google.com → gõ từ khóa → nhấn Enter", "Mở Word rồi gõ Enter", "Mở máy tính và tắt ngay", "Nhấn chuột phải trên màn hình desktop"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-9",
+    "text": "Từ khóa là gì?",
+    "options": ["Từ/cụm từ mô tả nội dung cần tìm", "Mật khẩu bí mật", "Địa chỉ nhà", "Tên bạn thân"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-10",
+    "text": "Chọn nhóm từ khóa TỐT để tìm về \"kì nhông Việt Nam\":",
+    "options": ["kì nhông Việt Nam", "Cái đó là gì", "Thứ thú vị", "Đẹp quá"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-11",
+    "text": "Khi kết quả tìm kiếm quá nhiều, em nên:",
+    "options": ["Bổ sung từ khóa cụ thể hơn", "Nhấp tất cả kết quả", "Tắt máy", "Đổi sang ngôn ngữ khác bất kì"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-12",
+    "text": "Phần văn bản nhỏ dưới tiêu đề kết quả tìm kiếm có tác dụng:",
+    "options": ["Mô tả ngắn nội dung trang", "Là quảng cáo bắt buộc", "Là bình luận của bạn", "Là mật khẩu đăng nhập"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-13",
+    "text": "Khi đọc kết quả, trang nào thường đáng tin cậy hơn?",
+    "options": ["Trang chính thức của cơ quan/nhà trường/thư viện", "Trang không rõ nguồn, nhiều lỗi chính tả", "Trang yêu cầu nhập mật khẩu", "Trang giật tít quá mức"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-14",
+    "text": "Trong một trang web, VIDEO thuộc loại:",
+    "options": ["Nội dung đa phương tiện (multimedia)", "Chỉ văn bản", "Chỉ siêu liên kết", "Thông tin riêng tư"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-15",
+    "text": "Khi rê chuột vào hình ảnh có viền và gạch chân, điều NHIỀU KHẢ NĂNG xảy ra là:",
+    "options": ["Đó cũng là một liên kết có thể nhấp", "Máy tự tắt", "Khóa bàn phím", "Mở phần mềm nghe nhạc"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-16",
+    "text": "Chọn phát biểu đúng về an toàn khi dùng máy truy cập web:",
+    "options": ["Không chia sẻ thông tin cá nhân trên trang lạ", "Gõ mật khẩu vào mọi hộp thoại", "Tải tệp lạ để thử", "Nhấn vào mọi quảng cáo"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-17",
+    "text": "Em muốn tìm \"Bài hát thiếu nhi về Hà Nội\". Từ khóa phù hợp nhất là:",
+    "options": ["bài hát thiếu nhi Hà Nội", "cái gì đó", "đường phố", "đẹp quá"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-18",
+    "text": "Kết quả tìm kiếm có chữ \"Quảng cáo\" (Ad) nghĩa là:",
+    "options": ["Nội dung quảng cáo được tài trợ", "Chắc chắn là tốt nhất", "Là trang của nhà trường", "Bắt buộc phải nhấp"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-19",
+    "text": "Để quay lại trang vừa xem trước đó, em dùng nút:",
+    "options": ["Back (←) trên trình duyệt", "Refresh (⟳)", "Home", "New Tab"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-20",
+    "text": "Trong bảng thông tin dạng danh sách, cách xử lý để dễ so sánh là:",
+    "options": ["Sắp xếp theo thứ tự hoặc dùng bộ lọc", "Tắt trang", "Phóng to ngẫu nhiên", "Chọn một mục bất kì"],
+    "answer": 0
+  },
+
+  {
+    "id": "TH-1-21",
+    "text": "Cách viết từ khóa giúp tăng độ chính xác:",
+    "options": ["Ngắn gọn, rõ ràng, đúng chính tả", "Dài thật dài", "Không có dấu cách", "Gõ sai để máy tự hiểu"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-22",
+    "text": "Nếu muốn tìm đúng cụm từ \"Hồ Hoàn Kiếm\", em có thể:",
+    "options": ["Đặt trong dấu ngoặc kép \"Hồ Hoàn Kiếm\"", "Chỉ gõ Hoan Kiem", "Gõ ho hkim", "Gõ bất kì rồi đoán"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-23",
+    "text": "Khi nhấp vào siêu liên kết trong bài, trình duyệt có thể:",
+    "options": ["Mở trang mới hoặc cuộn tới phần liên quan", "Tắt máy tính", "Đổi mật khẩu", "Xóa dữ liệu"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-24",
+    "text": "Trang web của bảo tàng/ thư viện trực tuyến thường cung cấp:",
+    "options": ["Bài viết, hình ảnh, video, liên kết về chủ đề học tập", "Mật khẩu tài khoản của người khác", "Nội dung bạo lực", "Phần mềm độc hại"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-25",
+    "text": "Khi máy tìm kiếm báo \"khoảng 50.000 kết quả\", con số này thể hiện:",
+    "options": ["Số lượng trang phù hợp với từ khóa", "Số người đang online", "Số trang em phải xem hết", "Số lỗi trên máy"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-26",
+    "text": "Nếu muốn xem lại kết quả ở TRANG SAU, em nhấp:",
+    "options": ["Nút/đường dẫn Trang 2 ở cuối SERP", "Nút Back (←)", "Nút Home", "Thanh địa chỉ"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-27",
+    "text": "Khi mở nhiều thẻ (tab) để so sánh kết quả, thói quen tốt là:",
+    "options": ["Đặt tên/ghim tab quan trọng và đóng tab không cần", "Mở thật nhiều rồi để đó", "Tắt luôn trình duyệt", "Chỉ xem một trang bất kì"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-28",
+    "text": "Nội dung nào KHÔNG nên nhập vào các biểu mẫu lạ trên web?",
+    "options": ["Họ tên + địa chỉ + số điện thoại", "Nội dung bài học chung", "Tên môn em thích", "Câu hỏi cho giáo viên"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-29",
+    "text": "Để học an toàn và hiệu quả trên web, em NÊN:",
+    "options": ["Chọn nguồn tin cậy, phù hợp lứa tuổi; hỏi người lớn khi cần", "Nhấp mọi liên kết lạ", "Tải tệp không rõ nguồn", "Dùng máy suốt đêm"],
+    "answer": 0
+  },
+  {
+    "id": "TH-1-30",
+    "text": "Phát biểu nào ĐÚNG về siêu liên kết?",
+    "options": ["Có thể là chữ, hình ảnh; khi nhấp sẽ chuyển tới nội dung liên quan", "Chỉ là chữ màu đỏ", "Chỉ hoạt động trên điện thoại", "Làm máy tính chậm đi"],
+    "answer": 0
+  }
+]
